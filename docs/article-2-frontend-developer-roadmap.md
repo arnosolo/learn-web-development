@@ -17,6 +17,8 @@ description: Step by step guide to becoming a frontend developer.
 - Getting Help
   - ChatGPT
   - Google
+- Command-line interface
+  - ls, cd, grep, rm, man...
 - Version control
   - Git
 - HTTP request
@@ -32,6 +34,8 @@ description: Step by step guide to becoming a frontend developer.
 - CSS frameworks
   - Tailwind CSS
 - Build and deploy
+  - Domain names
+  - DNS
   - Vite
   - Github Actions
   - AWS s3
