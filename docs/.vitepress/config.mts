@@ -25,6 +25,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/arnosolo/learn-web-development' },
       { icon: 'twitter', link: 'https://twitter.com/arno_solo_756' }
-    ]
+    ],
+
+    logo: '/logo.svg',
   }
 })

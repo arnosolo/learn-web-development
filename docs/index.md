@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Learn Web development"
-  text: "Here are some articles about web development."
+  # text: "Here are some articles about web development."
   # tagline: My great project tagline
   # actions:
   #   - theme: brand
@@ -15,8 +15,8 @@ hero:
   #     link: /api-examples
 
 features:
-  - title: React
-    details: Some articles about React
-    link: ./list-1-react
+  - icon: 🗺️
+    title: Frontend Developer Roadmap
+    details: Step by step guide to becoming a frontend developer.
+    link: ./article-2-frontend-developer-roadmap
 ---
-
