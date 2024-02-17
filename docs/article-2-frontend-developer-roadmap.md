@@ -48,7 +48,7 @@ If you are familiar with the items listed in this chapter, you will be able to u
 
 ### Intermediate
 
-The following topics are is not mandatory. Learn according to project needs.
+The following topics are not mandatory. Learn according to project needs.
 
 - Web APIs
   - Canvas
