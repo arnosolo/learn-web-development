@@ -10,6 +10,8 @@ description: Step by step guide to becoming a frontend developer.
 
 ### Beginner
 
+If you are familiar with the items listed in this chapter, you will be able to understand what other frontend engineers are talking about.
+
 - Foundational concepts
   - HTML
   - CSS
@@ -45,6 +47,8 @@ description: Step by step guide to becoming a frontend developer.
   - Jest
 
 ### Intermediate
+
+The following topics are is not mandatory. Learn according to project needs.
 
 - Web APIs
   - Canvas
