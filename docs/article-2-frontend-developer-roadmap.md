@@ -44,7 +44,7 @@ If you are familiar with the items listed in this chapter, you will be able to u
   - AWS cloudfront
   - AWS route53
 - Testing
-  - Jest
+  - Vitest
 
 ### Intermediate
 
@@ -69,4 +69,4 @@ The following topics are not mandatory. Learn according to project needs.
   - Lint staged
   - Husky
 - Data visualization
-  - [Chart.js](https://www.chartjs.org/)
+  - Chart.js
