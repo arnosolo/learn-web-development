@@ -27,6 +27,6 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com/arno_solo_756' }
     ],
 
-    logo: '/logo.svg',
+    logo: '/big-yellow.svg',
   }
 })
