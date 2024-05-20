@@ -23,8 +23,6 @@ If you are familiar with the items listed in this chapter, you will be able to u
   - ls, cd, grep, rm, man...
 - Version control
   - Git
-- HTTP request
-  - Fetch API
 - Data structures
   - Data types
   - TypeScript
@@ -35,6 +33,10 @@ If you are familiar with the items listed in this chapter, you will be able to u
   - npm
 - CSS frameworks
   - Tailwind CSS
+- HTTP request
+  - HTTP request methods
+  - HTTP response status codes
+  - Fetch API
 - Build and deploy
   - Domain names
   - DNS
@@ -45,6 +47,8 @@ If you are familiar with the items listed in this chapter, you will be able to u
   - AWS route53
 - Testing
   - Vitest
+- Assignment
+  - Write and deploy a todo list App using skills you just learned
 
 ### Intermediate
 
