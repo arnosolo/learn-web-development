@@ -3,15 +3,12 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/learn-web-development/',
-  title: "Learn Web development",
-  description: "Here are some articles about web development.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
     ],
-
     // sidebar: [
     //   {
     //     text: 'Examples',
@@ -21,12 +18,25 @@ export default defineConfig({
     //     ]
     //   }
     // ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/arnosolo/learn-web-development' },
       { icon: 'twitter', link: 'https://twitter.com/arno_solo_756' }
     ],
-
     logo: '/big-yellow.svg',
-  }
+  },
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en',
+      title: "Learn Web development",
+      description: "Here are some articles about web development.",
+    },
+    zh: {
+      label: '简体中文',
+      lang: 'zh-CN',
+      link: '/zh/',
+      title: '学习网页开发',
+      description: '这里有一些关于网页开发的文章.'
+    }
+  },
 })
