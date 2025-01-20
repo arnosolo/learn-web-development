@@ -14,9 +14,11 @@ hero:
   #     text: API Examples
   #     link: /api-examples
 
-features:
-  - icon: 🗺️
-    title: Frontend Developer Roadmap
-    details: Step by step guide to becoming a frontend developer.
-    link: ./web-2-frontend-developer-roadmap
+# features:
+#   - icon: 🗺️
+#     title: Frontend Developer Roadmap
+#     details: Step by step guide to becoming a frontend developer.
+#     link: ./web-2-frontend-developer-roadmap
 ---
+
+All articles have been migrated to https://arnosolo.github.io/blog/1-web-dev-articles.html
